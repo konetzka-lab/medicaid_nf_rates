@@ -1,0 +1,87 @@
+state,year,filetype,pmt_var,method,claim_count,50%,75%,max,mean,min,std,var
+AK,2012,max,PER_DIEM,estimated_allowed_amount_C,6113,$524 ,$635 ,"$3,330 ",$592 ,$215 ,$300 ,89791
+AK,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,6012,$408 ,$550 ,"$2,941 ",$459 ,$167 ,$182 ,33132
+AL,2012,max,PER_DIEM,estimated_allowed_amount_C,216628,$188 ,$198 ,$781 ,$193 ,$60 ,$45 ,2024
+AL,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,198926,$239 ,$262 ,$975 ,$247 ,$82 ,$58 ,3393
+AR,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+AZ,2012,max,PER_DIEM,estimated_allowed_amount_C,6003,$138 ,$162 ,$857 ,$149 ,$3 ,$73 ,5390
+AZ,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,6040,$148 ,$171 ,$865 ,$155 ,$2 ,$72 ,5207
+CA,2012,max,PER_DIEM,estimated_allowed_amount_C,543391,$179 ,$207 ,$914 ,$204 ,$16 ,$94 ,8834
+CA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,526352,$142 ,$157 ,$789 ,$159 ,$10 ,$73 ,5271
+CO,2012,max,PER_DIEM,estimated_allowed_amount_C,132489,$187 ,$204 ,$808 ,$192 ,$28 ,$46 ,2081
+CO,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,139212,$182 ,$199 ,$759 ,$189 ,$26 ,$44 ,1893
+CT,2012,max,PER_DIEM,estimated_allowed_amount_C,190929,$233 ,$243 ,"$1,600 ",$242 ,$66 ,$90 ,8055
+CT,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,178239,$200 ,$219 ,"$1,418 ",$214 ,$51 ,$81 ,6481
+DC,2012,max,PER_DIEM,estimated_allowed_amount_C,35404,$236 ,$284 ,"$1,019 ",$274 ,$27 ,$103 ,10590
+DC,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,2403,$241 ,$262 ,$702 ,$258 ,$30 ,$88 ,7765
+DE,2012,max,PER_DIEM,estimated_allowed_amount_C,7719,$210 ,$234 ,"$1,089 ",$225 ,$35 ,$79 ,6170
+DE,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,7607,$209 ,$232 ,"$1,335 ",$221 ,$33 ,$77 ,6000
+FL,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+GA,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+HI,2012,max,--,low_claim_count,95, -- , -- , -- , -- , -- , -- ,--
+IA,2012,max,PER_DIEM,estimated_allowed_amount_C,131754,$155 ,$170 ,"$1,973 ",$161 ,$87 ,$67 ,4505
+IA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,83632,$175 ,$192 ,"$1,846 ",$184 ,$86 ,$84 ,6997
+ID,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+IL,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+IN,2012,max,PER_DIEM,estimated_allowed_amount_C,183276,$157 ,$169 ,$403 ,$156 ,$14 ,$31 ,980
+IN,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,169007,$174 ,$188 ,$471 ,$173 ,$16 ,$36 ,1299
+KS,2012,max,PER_DIEM,estimated_allowed_amount_C,134118,$151 ,$169 ,"$1,072 ",$153 ,$18 ,$35 ,1191
+KS,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,130293,$178 ,$195 ,"$1,333 ",$180 ,$20 ,$39 ,1516
+KY,2012,max,PER_DIEM,estimated_allowed_amount_C,147468,$171 ,$186 ,"$1,441 ",$179 ,$28 ,$52 ,2701
+KY,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,130092,$208 ,$218 ,"$1,551 ",$217 ,$31 ,$58 ,3341
+LA,2012,max,PER_DIEM,estimated_allowed_amount_B,196285,$122 ,$134 ,$481 ,$123 ,$31 ,$35 ,1254
+LA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_B,157123,$149 ,$164 ,$637 ,$150 ,$34 ,$45 ,2000
+MA,2012,max,PER_DIEM,estimated_allowed_amount_C,300923,$202 ,$225 ,"$1,116 ",$208 ,$39 ,$79 ,6163
+MA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,289656,$174 ,$200 ,"$1,065 ",$180 ,$29 ,$64 ,4100
+MD,2012,max,PER_DIEM,estimated_allowed_amount_C,175042,$231 ,$244 ,"$1,166 ",$243 ,$75 ,$78 ,6011
+MD,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,163468,$233 ,$251 ,"$1,489 ",$246 ,$70 ,$76 ,5743
+ME,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+MI,2012,max,PER_DIEM,estimated_allowed_amount_C,263892,$184 ,$198 ,$955 ,$189 ,$62 ,$62 ,3808
+MI,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,267240,$201 ,$230 ,"$1,151 ",$213 ,$57 ,$71 ,5036
+MN,2012,max,--,file_unavailable, -- , -- , -- , -- , -- , -- , -- ,--
+MO,2012,max,PER_DIEM,estimated_allowed_amount_C,267882,$147 ,$154 ,"$2,277 ",$161 ,$40 ,$65 ,4226
+MO,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,270987,$170 ,$185 ,"$2,968 ",$188 ,$45 ,$77 ,5905
+MS,2012,max,PER_DIEM,estimated_allowed_amount_C,151295,$186 ,$201 ,$507 ,$191 ,$34 ,$39 ,1529
+MS,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,151605,$240 ,$255 ,$672 ,$245 ,$41 ,$51 ,2583
+MT,2012,max,PER_DIEM,estimated_allowed_amount_C,34141,$163 ,$164 ,$981 ,$166 ,$12 ,$35 ,1202
+MT,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,31427,$188 ,$190 ,"$1,144 ",$193 ,$13 ,$41 ,1703
+NC,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+ND,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+NE,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+NH,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+NJ,2012,max,PER_DIEM,estimated_allowed_amount_C,286182,$200 ,$211 ,"$1,417 ",$206 ,$91 ,$70 ,4944
+NJ,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,152764,$188 ,$202 ,"$1,738 ",$198 ,$81 ,$74 ,5416
+NM,2012,max, -- ,low_claim_count,480, -- , -- , -- , -- , -- , -- ,--
+NV,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+NY,2012,max,PER_DIEM,estimated_allowed_amount_C,735867,$206 ,$243 ,"$3,477 ",$213 ,$13 ,$90 ,8138
+NY,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,716386,$226 ,$285 ,"$4,265 ",$246 ,$10 ,$111 ,12222
+OH,2012,max,PER_DIEM,estimated_allowed_amount_C,484470,$168 ,$180 ,$736 ,$166 ,$47 ,$50 ,2451
+OH,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,480414,$188 ,$200 ,"$1,093 ",$185 ,$48 ,$54 ,2968
+OK,2012,max,PER_DIEM,estimated_allowed_amount_C,159387,$129 ,$137 ,$345 ,$134 ,$18 ,$23 ,530
+OK,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,154521,$160 ,$167 ,$364 ,$162 ,$20 ,$26 ,674
+OR,2012,max,PER_DIEM,estimated_allowed_amount_C,34531,$212 ,$225 ,$637 ,$233 ,$41 ,$55 ,3023
+OR,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,33032,$189 ,$208 ,$622 ,$210 ,$35 ,$51 ,2562
+PA,2012,max,PER_DIEM,estimated_allowed_amount_C,555184,$193 ,$214 ,"$1,668 ",$199 ,$108 ,$68 ,4663
+PA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,563483,$213 ,$239 ,"$2,073 ",$223 ,$95 ,$78 ,6047
+RI,2012,max,PER_DIEM,estimated_allowed_amount_B,43158,$166 ,$185 ,"$1,036 ",$170 ,$42 ,$61 ,3748
+RI,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_B,40910,$155 ,$173 ,$974 ,$159 ,$33 ,$57 ,3221
+SC,2012,max,--,no_valid_method, -- , -- , -- , -- , -- , -- , -- ,--
+SD,2012,max,PER_DIEM,estimated_allowed_amount_C,40890,$124 ,$141 ,"$1,146 ",$129 ,$74 ,$52 ,2697
+SD,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,39928,$143 ,$165 ,"$1,380 ",$151 ,$72 ,$64 ,4040
+TN,2012,max, -- ,low_claim_count,0, -- , -- , -- , -- , -- , -- ,--
+TX,2012,max,PER_DIEM,estimated_allowed_amount_B,2598420,$98 ,$129 ,"$1,041 ",$104 ,$5 ,$35 ,1254
+TX,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_B,2536525,$111 ,$144 ,"$1,311 ",$116 ,$5 ,$41 ,1663
+UT,2012,max,PER_DIEM,estimated_allowed_amount_C,40108,$167 ,$179 ,$992 ,$183 ,$60 ,$77 ,5896
+UT,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,40820,$184 ,$196 ,"$1,145 ",$212 ,$64 ,$112 ,12546
+VA,2012,max,PER_DIEM,estimated_allowed_amount_C,236272,$154 ,$168 ,"$2,124 ",$163 ,$25 ,$47 ,2182
+VA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,233845,$175 ,$187 ,"$1,029 ",$181 ,$30 ,$45 ,2035
+VT,2012,max,PER_DIEM,estimated_allowed_amount_C,22363,$201 ,$221 ,$694 ,$209 ,$36 ,$51 ,2574
+VT,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,24960,$209 ,$235 ,$851 ,$221 ,$53 ,$60 ,3648
+WA,2012,max,PER_DIEM,estimated_allowed_amount_C,127896,$182 ,$196 ,$661 ,$185 ,$25 ,$32 ,1012
+WA,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,120227,$165 ,$174 ,$573 ,$168 ,$22 ,$29 ,819
+WI,2012,max,PER_DIEM,estimated_allowed_amount_C,183874,$155 ,$164 ,"$2,344 ",$162 ,$43 ,$47 ,2184
+WI,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,171613,$165 ,$174 ,"$2,118 ",$170 ,$39 ,$48 ,2351
+WV,2012,max,PER_DIEM,estimated_allowed_amount_C,82140,$212 ,$273 ,"$1,511 ",$249 ,$97 ,$110 ,11998
+WV,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,80220,$283 ,$343 ,"$2,244 ",$324 ,$113 ,$144 ,20715
+WY,2012,max,PER_DIEM,estimated_allowed_amount_C,16943,$165 ,$180 ,$876 ,$169 ,$45 ,$45 ,1997
+WY,2012,max,PER_DIEM_wage_adj,estimated_allowed_amount_C,14575,$171 ,$191 ,"$1,163 ",$179 ,$46 ,$49 ,2440

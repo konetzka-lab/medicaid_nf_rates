@@ -1,0 +1,33 @@
+state,year,pmt_var,method,count,25%,50%,75%,max,mean,min,std,var
+AK,2014, -- ,outlier, -- , -- , -- , -- , -- , -- , -- , -- ,--
+AL,2014,PER_DIEM,allowed_amount,260532,$179 ,$190 ,$202 ,$503 ,$196 ,$90 ,$43 ,1845
+AL,2014,PER_DIEM_wage_adj,low_claim_count,0, -- , -- , -- , -- , -- , -- , -- ,--
+CO,2014,PER_DIEM,outlier,272049,$185 ,$199 ,$214 ,$877 ,$203 ,$20 ,$38 ,1475
+CO,2014,PER_DIEM_wage_adj,low_claim_count,5, -- , -- , -- , -- , -- , -- , -- ,--
+DE,2014, -- ,outlier, -- , -- , -- , -- , -- , -- , -- , -- ,--
+FL,2014,PER_DIEM,allowed_amount,179167,$202 ,$217 ,$231 ,$631 ,$222 ,$29 ,$42 ,1739
+FL,2014,PER_DIEM_wage_adj,allowed_amount,177785,$227 ,$244 ,$260 ,$585 ,$249 ,$28 ,$48 ,2278
+IL,2014,PER_DIEM,allowed_amount,505335,$123 ,$139 ,$159 ,$430 ,$135 ,$11 ,$36 ,1301
+IL,2014,PER_DIEM_wage_adj,allowed_amount,494478,$132 ,$148 ,$161 ,$484 ,$140 ,$10 ,$36 ,1274
+KS,2014,PER_DIEM,allowed_amount,1688,$136 ,$159 ,$177 ,$750 ,$157 ,$31 ,$47 ,2206
+KS,2014,PER_DIEM_wage_adj,allowed_amount,1658,$165 ,$185 ,$202 ,$794 ,$183 ,$36 ,$53 ,2790
+MD,2014,PER_DIEM,allowed_amount,207603,$222 ,$236 ,$248 ,$989 ,$228 ,$4 ,$64 ,4123
+MD,2014,PER_DIEM_wage_adj,allowed_amount,217350,$229 ,$246 ,$267 ,"$1,002 ",$239 ,$3 ,$68 ,4685
+ME,2014,PER_DIEM,allowed_amount,48172,$172 ,$189 ,$209 ,"$1,178 ",$201 ,$75 ,$88 ,7656
+ME,2014,PER_DIEM_wage_adj,allowed_amount,44873,$187 ,$208 ,$233 ,"$1,430 ",$223 ,$76 ,$99 ,9751
+MT,2014,PER_DIEM,allowed_amount,25200,$166 ,$167 ,$170 ,$417 ,$171 ,$23 ,$30 ,919
+MT,2014,PER_DIEM_wage_adj,allowed_amount,4, -- , -- , -- , -- , -- , -- , -- ,--
+NC,2014,PER_DIEM,allowed_amount,779914,$154 ,$158 ,$164 ,$547 ,$162 ,$15 ,$21 ,455
+NC,2014,PER_DIEM_wage_adj,allowed_amount,755439,$175 ,$186 ,$196 ,$603 ,$188 ,$15 ,$27 ,734
+ND,2014,PER_DIEM,allowed_amount,38708,$198 ,$235 ,$275 ,"$1,899 ",$247 ,$123 ,$115 ,13284
+ND,2014,PER_DIEM_wage_adj,allowed_amount,48944,$259 ,$314 ,$375 ,"$2,799 ",$330 ,$105 ,$160 ,25519
+NE,2014,PER_DIEM,allowed_amount,79361,$69 ,$121 ,$152 ,$853 ,$108 ,($113),$63 ,3950
+NE,2014,PER_DIEM_wage_adj,allowed_amount,82966,$67 ,$133 ,$169 ,"$1,044 ",$119 ,($127),$75 ,5660
+NH,2014, -- ,outlier, -- , -- , -- , -- , -- , -- , -- , -- ,--
+NM,2014,--,low_claim_count,18, -- , -- , -- , -- , -- , -- , -- ,--
+NV,2014,PER_DIEM,allowed_amount,62420,$114 ,$117 ,$126 ,"$3,808 ",$153 ,$16 ,$95 ,9113
+NV,2014,PER_DIEM_wage_adj,allowed_amount,65145,$100 ,$103 ,$120 ,"$3,275 ",$150 ,$14 ,$102 ,10375
+RI,2014,PER_DIEM,allowed_amount,44440,$184 ,$220 ,$260 ,"$1,116 ",$289 ,$19 ,$229 ,52654
+RI,2014,PER_DIEM_wage_adj,allowed_amount,41467,$172 ,$206 ,$242 ,"$1,059 ",$269 ,$18 ,$221 ,48833
+WI,2014,PER_DIEM,allowed_amount,65134,$149 ,$157 ,$166 ,"$2,333 ",$163 ,$31 ,$41 ,1666
+WI,2014,PER_DIEM_wage_adj,allowed_amount,62373,$156 ,$167 ,$175 ,"$2,367 ",$171 ,$28 ,$43 ,1851
