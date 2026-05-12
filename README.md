@@ -94,7 +94,7 @@ __________
 * 02_merge_area_wages 
 	* Creates a 2011-2020 crosswalk of Medicare wage indexes for each zip code. 
 * 03_calculate_state_rate.ipynb 
-	* Calculates per diem rates for claim, adjusts claims by Medicare Wage index for each zip code, drops claims with negative or zero amounts, winsorize rates to 95th percentile within facility, calculates annual state averages. 
+	* Calculates per diem rates for claim, adjusts claims by Medicare Wage index for each zip code, winsorize rates to 95th percentile within facility, calculates annual state averages. 
 
 **Python Packages Used**
 * pandas 
@@ -104,5 +104,11 @@ __________
 * datetime 
 * gc 
 
+### Relevant Publications 
+___________
+* [MACPAC Estimates of Medicaid Nursing Facility Payments Relative to Costs](https://www.macpac.gov/wp-content/uploads/2023/01/Estimates-of-Medicaid-Nursing-Facility-Payments-Relative-to-Costs-1-6-23.pdf)
+* [Bowbliss et al: Assessing Medicaid Payment Rates and
+Costs of Caring for the Medicaid Population Residing in Nursing Homes](https://aspe.hhs.gov/sites/default/files/documents/b0758ea351e38746025e99878d229bdc/assessing-medicaid-payment-rates-costs.pdf)
+* [Academy Health TAF Reporting Checklist](https://academyhealth.org/sites/default/files/publication/%5Bfield_date%3Acustom%3AY%5D-%5Bfield_date%3Acustom%3Am%5D/taf_reporting_checklist_pdf_02.2026.pdf)
 
 
